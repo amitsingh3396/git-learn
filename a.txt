@@ -1,2 +1,2 @@
 This is some text in file a.
-This is some more text
+Yet some more text in file a.txt.
